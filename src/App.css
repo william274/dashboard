@@ -23,6 +23,14 @@
   color: #61dafb;
 }
 
+.h1{
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 15pt;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
